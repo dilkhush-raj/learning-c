@@ -36,3 +36,29 @@ the user.
 - [5.6](./5-6.c) - Example 5.6 Write a program to calculate the factorial of a given input natural number.
 
 - [5.7](./5-7.c) - Example 5.7 Write a program to print first ten even natural numbers
+
+- [5.8](./5-8.c) - Write a program to print first n natural numbers. 
+
+- [5.9](./5-9.c) - Example 5.9 Write a program to generate the following pattern given below: 
+    - 1
+    - 1 2
+    - 1 2 3
+    - 1 2 3 4 
+
+- [5.10](./5-10.c) - Example 5.10 Write a program to print first 10 even numbers
+
+- [5.11](./5-11.c) - Example 5.11 Write a program to calculate the first smallest divisor of a number.
+
+- [5.12](./5-12.c) - Example 5.12 Write a program to print first 20 natural numbers skipping the numbers divisible by 5.  
+
+- [6.1](./6-1.c) - Example 6.1 Write a program to declare and read values in an array and display them.
+
+- [6.2](./6-2.c) - Example 6.2 Write a program to illustrate how the marks of 10 students are read in an array and then used to find the maximum marks obtained by a student in the class.
+
+- [6.3](./6-3.c) - Example 6.3: Write a program to display the average marks of each student, given the marks in 2 subjects for 3 students.
+
+- [6.4](./6-4.c) - Example 6.4 Write a program to search an element in a given list of elements using Linear Search.
+
+- [6.5](./6-5.c) - Example 6.5 Write a program to sort a list of elements using the selection sort method
+
+- [7.1](./7-1.c) - 
