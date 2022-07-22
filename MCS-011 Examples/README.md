@@ -61,4 +61,58 @@ the user.
 
 - [6.5](./6-5.c) - Example 6.5 Write a program to sort a list of elements using the selection sort method
 
-- [7.1](./7-1.c) - 
+- [7.1](./7-1.c) - Example 7.1 Write a program to read a name from the keyboard and display message Hello onto the monitor
+
+- [7.2](./7-2.c) - Example 7.2 Write a program to display the string “UNIX” in the following format. 
+    - U
+    - UN
+    - UNI
+    - UNIX
+    - UNIX
+    - UNI
+    - UN
+    - U
+
+- [7.4](./7-4.c) - Example 7.4 Write a program to initializes 3 names in an array of strings and display them on to monitor
+
+- [7.5](./7-5.c) - Example 7. 5 Write a program to read a string from the keyboard and to display the length of the string on to the monitor by using strlen( ) function.
+
+- [7.6](./7-6.c) - Example 7.6 Write a program to read a string from the keyboard and copy the string onto the second string and display the strings on to the monitor by using strcpy( ) function.
+
+- [7.7](./7-7.c) - Example 7.7 Write a program to compare two strings using string compare function.
+
+- [7.8](./7-8.c) - Example 7.8 Write a program to read two strings and append the second string to the first string.
+
+- [7.9](./7-9.c) - Example 7.9 Write a program to convert the string into lower case characters using in-built function.
+
+- [7.9](./7-9-a.c) - Example 7.9 Write a program to reverse a given string.
+
+- [7.10](./7-10.c) - Example 7.10 Write a program, which returns the position of the string from where first string does not match with second string.
+
+- [8.1](./8-1.c) - Example 8.1 Program to illustrate a function
+
+- [8.2](./8-2.c) - Example 8.2 Let us write a simple function that calculates the square of an integer.
+
+- [8.3](./8-3.c) - Example 8.3 Program to calculate the square of a given integer using the function prototype
+
+- [8.4](./8-4.c) - Example 8.4 To print the value of automatic variables
+
+- [8.5](./8-5.c) - Example 8.5 Program to illustrate the use of global variables
+
+- [8.6](./8-6.c) - Example 8.6 Program to illustrate the use of static variable
+
+- [8.7](./8-7.c) - Example 8.7 Program for illustration of the function with no arguments and no return value
+
+- [8.8](./8-8.c) - Example 8.8 Write a program to find the sum of the first ten natural numbers.
+
+- [8.9](./8-9.c) - Example 8.9 Write a program to calculate sum of any three given numbers.
+
+- [8.10](./8-10.c) - Example 8.10 Write a program to calculate sum of three numbers.
+
+- [8.11](./8-11.c) - Example 8.11 Write a program to multiply the two given numbers
+
+- [8.12](./8-12.c) - Example 8.12 Write a program to swap two values.
+
+- [8.13](./8-13.c) - Example 8.13 Write a program to find factorial of a number
+
+- [8.14](./8-14.c) - Example 8.14 Modify the program 8 using recursion.
