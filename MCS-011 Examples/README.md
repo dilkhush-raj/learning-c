@@ -116,3 +116,19 @@ the user.
 - [8.13](./8-13.c) - Example 8.13 Write a program to find factorial of a number
 
 - [8.14](./8-14.c) - Example 8.14 Modify the program 8 using recursion.
+
+- [9.1](./9-1.c) - Example 9.1 Program to store and retrieve the values from the student structure
+
+- [9.4](./9-4.c) - Example 9.4 Write a program to access the values of the structure initialized with some initial values.
+
+- [9.5](./9-5.c) - Example 9.5 Write a program to demonstrate passing a structure to a function.
+
+- [9.6](./9-6.c) - Example 9.6 Write a program to accept the data from the user and calculate the salary of the person using concept of functions.
+
+- [9.7](./9-7.c) - Example 9.7 Write a program to read and display data for 20 students.
+
+- [9.8](./9-8.c) - Example 9.8 Program to read and print data related to five students having marks of three subjects each using the concept of arrays
+
+- [9.9](./9-9.c) - Example 9.9 Write a program to illustrate the concept of union.
+
+- [9.10](9-10.c) - Example 9.10 How to initialize a Union with the help of the following example
